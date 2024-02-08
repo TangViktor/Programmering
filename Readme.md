@@ -1,5 +1,8 @@
 Loggbok
 ===============================================================================================
+Fredag 8e Februari 2024
+Idag pluggade jag inför prov 6 och 8 för att eventuellt göra de nästa torsdag som vi är i skolan. Mot slutet av lektionen så fick jag veta att jag istället ska göra en "skillsforall" kurs så istället så gick jag in och inspekterade kursen för att få ett humm om vad jag ska göra inom kursen. Och även för att göra upp en plan inför det. 
+
 Mån 22 Jan
 Denna lektionen..
 

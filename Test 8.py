@@ -4,3 +4,9 @@ lägg talen 2, 3, 2, 4, 1 i en lista
 Lägg till 4 sist i listan (längst till höger)
 beräkna och skriv ut medelvärdet av talen i listan
 Sortera listan och skriv ut den
+
+tal = ["2", "3", "2", "4", "1"]
+print(tal)
+
+
+
